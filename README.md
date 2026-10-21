@@ -121,4 +121,4 @@ El repositorio incluye un manual técnico exhaustivo en Markdown:
 
 * **Desarrollador:** Alex Santos ([@Alex-Santos-Dev](https://github.com/Alex-Santos-Dev))
 * **Materia:** Investigación de Operaciones / Programación Lineal
-* **Licencia:** MIT License. Código abierto con fines educativos y de investigación.
+* **Licencia:** [GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.en.html).
